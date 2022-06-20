@@ -1,4 +1,4 @@
-## Oie, eu sou a Rafael Viegas!
+## Oie, eu sou o Rafael Viegas!
 <div align="center">
   <a href="https://github.com/rlviegas">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rlviegas&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
